@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -map
+ls ./, ../, 103-commas, file1, file0
