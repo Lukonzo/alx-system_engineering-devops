@@ -1,1 +1,1 @@
-Linux shell, scripting
+Shell permissions
