@@ -1,2 +1,2 @@
 #!/bin/bash
-grep [[:upper::lower:]] /etc/ssh/ssd_config
+grep ^[[:upper::lower:]] /etc/ssh/ssd_config
