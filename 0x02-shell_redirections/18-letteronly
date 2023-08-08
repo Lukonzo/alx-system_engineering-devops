@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ^[a-z A-Z] /etc/ssh/ssd_config
+grep ^[a-zA-Z] /etc/ssh/ssd_config
